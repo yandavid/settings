@@ -1,0 +1,15 @@
+[alias]
+  co = checkout
+  br = branch
+  st = status
+[core]
+  filemode = false
+[diff]
+  algorithm = patience
+[fetch]
+  prune = true
+[push]
+  default = simple
+[user]
+  email = yandavid@users.noreply.github.com
+  name = David Yan
