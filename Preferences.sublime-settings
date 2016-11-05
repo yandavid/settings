@@ -20,6 +20,7 @@
     ".git",
     "bower_components",
     "coverage",
+    "dist",
     "node_modules"
   ],
   "font_options":
