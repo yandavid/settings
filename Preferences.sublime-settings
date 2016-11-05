@@ -11,6 +11,10 @@
   "enable_tab_scrolling": false,
   "ensure_newline_at_eof_on_save": true,
   "fade_fold_buttons": false,
+  "file_exclude_patterns":
+  [
+    "yarn.lock"
+  ],
   "folder_exclude_patterns":
   [
     ".git",
