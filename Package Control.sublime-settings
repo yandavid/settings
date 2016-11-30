@@ -1,0 +1,15 @@
+{
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "AutoFileName",
+    "Babel",
+    "DocBlockr",
+    "Oceanic Next Color Scheme",
+    "Package Control"
+  ],
+  "submit_usage": false
+}
