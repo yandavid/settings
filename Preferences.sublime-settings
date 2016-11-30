@@ -1,4 +1,8 @@
 {
+  "afn_valid_scopes":
+  [
+    "string"
+  ],
   "always_show_minimap_viewport": true,
   "animation_enabled": false,
   "auto_complete_commit_on_tab": true,
@@ -38,6 +42,9 @@
     "draw_active",
     "draw_normal"
   ],
+  "jsdocs_align_tags": false,
+  "jsdocs_lower_case_primitives": true,
+  "jsdocs_spacer_between_sections": true,
   "margin": 0,
   "match_brackets_angle": true,
   "move_to_limit_on_up_down": true,
