@@ -9,9 +9,11 @@
   "auto_complete_cycle": true,
   "auto_complete_with_fields": true,
   "auto_find_in_selection": true,
+  "color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
   "copy_with_empty_selection": false,
   "default_line_ending": "unix",
   "draw_minimap_border": true,
+  "draw_shadows": false,
   "enable_tab_scrolling": false,
   "ensure_newline_at_eof_on_save": true,
   "fade_fold_buttons": false,
@@ -39,8 +41,9 @@
   "highlight_modified_tabs": true,
   "indent_guide_options":
   [
-    "draw_active",
-    "draw_normal"
+    "draw_active_single",
+    "draw_normal",
+    "solid"
   ],
   "jsdocs_align_tags": false,
   "jsdocs_lower_case_primitives": true,
