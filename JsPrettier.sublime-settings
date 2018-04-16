@@ -1,5 +1,6 @@
 {
   "prettier_options": {
+    "jsxBracketSameLine": true,
     "printWidth": 79,
     "singleQuote": true,
     "trailingComma": "all"
