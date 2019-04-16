@@ -11,3 +11,6 @@
 [user]
   email = yandavid@users.noreply.github.com
   name = David Yan
+  signingkey = 58C04938D92A4A27
+[commit]
+  gpgsign = true
