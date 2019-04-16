@@ -31,7 +31,6 @@
   ],
   "font_options":
   [
-    "directwrite",
     "gray_antialias",
     "no_bold",
     "no_italic"
