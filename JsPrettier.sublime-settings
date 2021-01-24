@@ -1,5 +1,11 @@
 {
+  "allow_inline_formatting": true,
+  "auto_format_on_save": true,
+  "auto_format_on_save_excludes": ["*.html"],
+  "disable_prettier_cursor_offset": true,
+  "disable_tab_width_auto_detection": true,
   "prettier_options": {
+    "arrowParens": "avoid",
     "jsxBracketSameLine": true,
     "printWidth": 79,
     "singleQuote": true,
